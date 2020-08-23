@@ -12,6 +12,7 @@
 		B40F085524F12A9A009C48F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B40F085324F12A9A009C48F2 /* Main.storyboard */; };
 		B40F085724F12A9A009C48F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B40F085624F12A9A009C48F2 /* Assets.xcassets */; };
 		B40F085A24F12A9A009C48F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B40F085824F12A9A009C48F2 /* LaunchScreen.storyboard */; };
+		B40F086224F139DB009C48F2 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B40F086124F139DB009C48F2 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B40F085624F12A9A009C48F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B40F085924F12A9A009C48F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B40F085B24F12A9A009C48F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B40F086124F139DB009C48F2 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B40F084F24F12A9A009C48F2 /* AppDelegate.swift */,
 				B40F085124F12A9A009C48F2 /* ViewController.swift */,
+				B40F086124F139DB009C48F2 /* CircleImage.swift */,
 				B40F085324F12A9A009C48F2 /* Main.storyboard */,
 				B40F085624F12A9A009C48F2 /* Assets.xcassets */,
 				B40F085824F12A9A009C48F2 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				B40F085224F12A9A009C48F2 /* ViewController.swift in Sources */,
 				B40F085024F12A9A009C48F2 /* AppDelegate.swift in Sources */,
+				B40F086224F139DB009C48F2 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
